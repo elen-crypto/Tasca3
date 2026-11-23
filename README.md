@@ -1,5 +1,8 @@
 # Tasca3
-modificacio
+1ra modificacio
 
 # Modificacio feta per un companyç
-modificacio
+2da modificacio
+
+# MODIFICACIO DEL FORK
+3ra modificacio
